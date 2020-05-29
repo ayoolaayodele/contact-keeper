@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://pecker123:<pecker123>@contact-keeper-mmewm.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://pecker123:pecker123@contact-keeper-mmewm.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtsecret": "naijaloaded"
 }
